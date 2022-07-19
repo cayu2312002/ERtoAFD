@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Arbol_sintactico">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Arbol sintactico/dist/Arbol_sintactico.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
